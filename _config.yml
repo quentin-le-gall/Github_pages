@@ -104,11 +104,11 @@ analytics:
 
 # Site Author
 author:
-  name             : "Your Name"
+  name             : "Quentin Le Gall"
   avatar           : # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
-  bio              : "I am an **amazing** person."
-  location         : "Somewhere"
-  email            :
+  bio              : "Currently a student in master degree in ATIAM at IRCAM"
+  location         : "Paris"
+  email            : "quentin.legall@atiam.fr"
   links:
     - label: "Email"
       icon: "fas fa-fw fa-envelope-square"
