@@ -108,7 +108,7 @@ author:
   avatar           : # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
   bio              : "Currently a student in master degree in ATIAM at IRCAM"
   location         : "Paris"
-  email            : "quentin.legall@atiam.fr"
+  email            : #"quentin.legall@atiam.fr"
   links:
     - label: "Email"
       icon: "fas fa-fw fa-envelope-square"
